@@ -1,4 +1,4 @@
-**How-To**
+**How-To
 
 Go to [https://www.neopets.com/userinfo.phtml](https://www.neopets.com/userinfo.phtml) and paste the code at the beginning of the **About Me** box, then click Change Your Details. The result will disable the carousel on your user lookup and display all your pets with their info.
 
