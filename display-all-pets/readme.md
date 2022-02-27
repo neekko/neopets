@@ -2,7 +2,7 @@
 
 Go to [https://www.neopets.com/userinfo.phtml](https://www.neopets.com/userinfo.phtml) and paste the code at the beginning of the **About Me** box, then click the *Change Your Details* button:
 
-```
+```html
 <style>
 #bxlist {width: 100% !important;}
 #bxlist li {float: none !important; display: inline-block;}
