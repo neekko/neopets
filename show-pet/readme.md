@@ -4,7 +4,7 @@ Go to [https://www.neopets.com/quickref.phtml](https://www.neopets.com/quickref.
 
 ```
 <style>
-.flashRIP__2020 {width: 286px; height: 286px; background:url(https://pets.neopets.com/cpn/PETNAME/1/4.png) 50% 50% no-repeat;}
+.flashRIP__2020 {width: 286px; height: 286px; background:url(https://pets.neopets.com/cpn/**PETNAME**/1/4.png) 50% 50% no-repeat;}
 .flashRIP-content__2020 {display: none}
 </style>
 ```
