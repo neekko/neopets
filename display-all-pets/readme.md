@@ -1,6 +1,6 @@
 ## How-To
 
-Go to [https://www.neopets.com/userinfo.phtml](https://www.neopets.com/userinfo.phtml) and paste the code at the beginning of the **About Me** box, then click the *Change Your Details* button.
+Go to [https://www.neopets.com/userinfo.phtml](https://www.neopets.com/userinfo.phtml) and paste the code at the beginning of the **About Me** box, then click the *Change Your Details* button. The result is very basic and you will need to add your own CSS to make it look nicer!
 
 ```
 <style>
