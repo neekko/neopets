@@ -4,6 +4,8 @@ Click the name of a folder to go to that code's instructions. If you need help, 
 ## Quick Reference
 [**display-all-pets**](https://github.com/neekko/neopets/tree/main/display-all-pets) - disable the pet carousel on your user lookup and display ALL your pets
 
+[**modern-lookup**](https://github.com/neekko/neopets/tree/main/modern-lookup) - a modern redesign of the basic Neopets lookup/layout
+
 [**show-pet**](https://github.com/neekko/neopets/tree/main/show-pet) - make your pet's portrait visible on their lookup
 
 ## About the Author
