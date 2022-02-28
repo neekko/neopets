@@ -6,7 +6,7 @@ Click the name of a folder to go to that code's instructions. If you need help, 
 
 [**modern-lookup**](https://github.com/neekko/neopets/tree/main/modern-lookup) - a modern redesign of the basic Neopets lookup/layout
 
-[**modern-lookup-lite**](https://github.com/neekko/neopets/tree/main/modern-lookup-lite) - modern-lookup without the modified header & footer which frees up characters for more customization
+[**modern-lookup-lite**](https://github.com/neekko/neopets/tree/main/modern-lookup-lite) - same as above, but it frees up character space by keeping the default header & footer
 
 [**show-pet**](https://github.com/neekko/neopets/tree/main/show-pet) - make your pet's portrait visible on their lookup
 
