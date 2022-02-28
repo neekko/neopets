@@ -13,10 +13,11 @@ Modifying the CSS is ill-advised unless you know what you're doing. If you would
 
 | Hex Code | Description & Usage |
 | ------------- | ------------- |
-| <span style="background:#ffd025">#ffd025</span>  | yellow; header, footer, & table header background color |
-| <span style="background:#faa819">#faa819</span>  | dark yellow; border color in headers |
-| <span style="background:#ffeca8">#ffeca8</span>  | light yellow; user info & event bar below the nav |
-| <span style="background:#ccc">#ccc</span>  | light gray; border around table contents |
+| #ffd025  | yellow; header, footer, & table header background color |
+| #faa819  | dark yellow; border color in headers |
+| #ffeca8  | light yellow; user info & event bar below the nav |
+| #ccc  | light gray; border around table contents |
+| #faf9f6  | off-white; main background color |
 
 ## Example
 
