@@ -9,7 +9,7 @@ Click the name of a folder to go to that code's instructions. If you need help, 
 [**show-pet**](https://github.com/neekko/neopets/tree/main/show-pet) - make your pet's portrait visible on their lookup
 
 ## Image Hosting
-I use [imgur.com](imgur.com), which currently works without issue and the URLs are nice & short. You will need to add the file extension to the end of the image link that imgur gives you in order for it to show up on your lookup or petpage.
+I use [imgur.com](imgur.com), which currently works without issue or watermarks and the URLs are nice & short. You will need to add the file extension to the end of the image link that imgur gives you in order for it to show up on your lookup or petpage.
 
 Example:
 ```html
