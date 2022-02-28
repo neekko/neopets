@@ -14,7 +14,7 @@ Modifying the CSS is ill-advised unless you know what you're doing. If you would
 
 | Hex Code | Description & Usage |
 | ------------- | ------------- |
-| #ffd025  | yellow; nav, footer, & module header background color (you also might want to delete `url("http://imgur.com/yKT6guP.png")` since it's a background image that will hide the new color |
+| #ffd025  | yellow; nav, footer, & module header background color (you also might want to delete `url("http://imgur.com/yKT6guP.png")` since it's a background image that will hide the new color) |
 | #faa819  | dark yellow; border color around user/event bar & module headers |
 | #ffeca8  | light yellow; user/event bar below the nav |
 | #fff  | white; module content background color |
