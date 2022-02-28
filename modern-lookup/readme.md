@@ -18,6 +18,14 @@ Modifying the CSS is ill-advised unless you know what you're doing. If you would
 | #ffeca8  | light yellow; user info & event bar below the nav |
 | #ccc  | light gray; border around table contents |
 | #faf9f6  | off-white; main background color |
+| #000  | black; text color |
+
+I did not include any link colors because I am fine with the default blue, but if you want to customize the links, paste the following code before the `</style>` tag, replacing **COLORNAME** with your hex codes or color names of choice:
+
+```css
+a {color: COLORNAME}
+a:hover {color: COLORNAME}
+```
 
 ## Example
 
