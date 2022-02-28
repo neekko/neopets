@@ -14,7 +14,7 @@ Modifying the CSS is ill-advised unless you know what you're doing. If you would
 
 | Hex Code | Description & Usage |
 | ------------- | ------------- |
-| #ffd025  | yellow; header, footer, & table header background color |
+| #ffd025  | yellow; header, footer, & table header background color (you also might want to delete `url("http://imgur.com/yKT6guP.png")` since it's a background image of the same color) |
 | #faa819  | dark yellow; border color in headers |
 | #ffeca8  | light yellow; user info & event bar below the nav |
 | #ccc  | light gray; border around table contents |
