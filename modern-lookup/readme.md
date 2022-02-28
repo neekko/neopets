@@ -27,6 +27,8 @@ a {color: COLORNAME}
 a:hover {color: COLORNAME}
 ```
 
+**Note:** Saving your profile edits will auto-format the CSS and further reduce the number of remaining available characters.
+
 ## Example
 
 [**Live Demo**](https://www.neopets.com/userlookup.phtml?user=neekko)
