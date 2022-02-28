@@ -1,5 +1,5 @@
 ## How-To
-Click the name of a folder to go to that code's instructions. If you need help, leave a comment in the [Issues tab](https://github.com/neekko/neopets/issues) or ping me on Twitter [@neekko](http://twitter.com/neekko/) (where I'm most active).
+Click the name of a folder to go to that code's instructions. If you need help, leave a comment in the [Issues tab](https://github.com/neekko/neopets/issues), [Reddit thread](https://www.reddit.com/r/neopets/comments/t33f0j/i_made_a_github_repository_for_useful_lookup/), or ping me on Twitter [@neekko](http://twitter.com/neekko/) (where I'm most active).
 
 ## Quick Reference
 [**display-all-pets**](https://github.com/neekko/neopets/tree/main/display-all-pets) - disable the pet carousel on your user lookup and display ALL your pets
