@@ -1,3 +1,4 @@
+## Introduction
 This is my take on a modern version of the basic Neopets lookup. Nothing fancy other than taking all those old tables and updating their look to something more current. The header and footer are also modified.
 
 ## How-To
