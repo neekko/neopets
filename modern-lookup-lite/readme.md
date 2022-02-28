@@ -35,4 +35,4 @@ a:hover {color: COLORNAME}
 
 [**Live Demo**](https://www.neopets.com/userlookup.phtml?user=neekko)
 
-!["Modern Lookup" screenshot](https://imgur.com/F6rnXai.png)
+!["Modern Lookup Lite" screenshot](https://imgur.com/eSEZoDz.png)
