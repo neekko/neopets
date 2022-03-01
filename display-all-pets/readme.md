@@ -5,13 +5,21 @@
 
 Go to [https://www.neopets.com/userinfo.phtml](https://www.neopets.com/userinfo.phtml) and paste the code at the beginning of the **About Me** box, then click the *Change Your Details* button:
 
-```html:neekko/neopets/display-all-pets/display-all-pets.html
+```html
+<style>
+#bxlist {width: 100% !important; text-align: center; padding: 0; margin: 0 0 0 46px;}
+#bxlist li {float: none !important; display: inline-block; margin: 10px!important;}
+#bxlist img {margin-bottom: 10px;}
+.bx-viewport {height: auto !important;}
+.bx-wrapper {max-width: none !important;}
+.bx-clone, .bx-controls, #bxlist li .medText > br, #bxlist li .medText > hr {display: none !important;}
+</style>
 ```
 
-The result is very basic and you will need to add your own CSS to make it pretty or to match the rest of your custom lookup!
+The result is very basic and you may need to add your own CSS to match it with the rest of your custom lookup!
 
 ## Adjust Centering
-
+The list of pets may appear slightly off-center if you are using a custom lookup. You can adjust the centering by locating `margin: 0 0 0 46px` and adjusting the last number. This setting is at the end of the second line (or Ctrl/Cmd F to find it quicker).
 
 ## "Before" Example
 
