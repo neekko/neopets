@@ -28,4 +28,4 @@ The list of pets may appear slightly off-center if you are using a custom lookup
 
 ## "After" Example
 
-![Pet display with the above code!](https://imgur.com/undefined.png)
+![Pet display with the above code!](https://imgur.com/MihiGW0.png)
