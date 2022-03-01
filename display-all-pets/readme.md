@@ -18,8 +18,8 @@ Go to [https://www.neopets.com/userinfo.phtml](https://www.neopets.com/userinfo.
 
 The result is very basic and you may need to add your own CSS to match it with the rest of your custom lookup!
 
-## Adjust Centering
-The list of pets may appear slightly off-center if you are using a custom lookup. You can adjust the centering by locating `margin: 0 0 0 46px` and adjusting the last number. This setting is at the end of the second line (or Ctrl/Cmd F to find it quicker).
+## Centering
+The list of pets may appear slightly off-center if you are using a custom lookup. You may adjust the centering by locating `margin: 0 0 0 46px` and changing the last number. This setting is at the end of the second line (or Ctrl/Cmd F to find it quicker).
 
 ## "Before" Example
 
