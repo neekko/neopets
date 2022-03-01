@@ -1,20 +1,17 @@
 ## How-To
 
+**Note:** Saving your user profile will reformat the code and decrease your remaining available characters significantly, so please ensure that you have your original lookup code saved somewhere else just in case you go over the limit. Any characters that exceed the 5000 limit will be deleted automatically!!!!
+
+
 Go to [https://www.neopets.com/userinfo.phtml](https://www.neopets.com/userinfo.phtml) and paste the code at the beginning of the **About Me** box, then click the *Change Your Details* button:
 
-```html
-<style>
-#bxlist {width: 100% !important;}
-#bxlist li {float: none !important; display: inline-block;}
-.bx-viewport {height: auto !important;}
-.bx-wrapper {max-width: none !important;}
-.bx-clone, .bx-controls {display: none !important;}
-</style>
+```html:neekko/neopets/display-all-pets/display-all-pets.html
 ```
 
-The result is very basic and you will need to add your own CSS to make it look nicer!
+The result is very basic and you will need to add your own CSS to make it pretty or to match the rest of your custom lookup!
 
-**Note:** Saving your user profile will reformat the code and decrease your remaining available characters significantly, so please ensure that you have your original lookup code saved somewhere else just in case you go over the limit. Any characters that exceed the 5000 limit will be deleted automatically!!!!
+## Adjust Centering
+
 
 ## "Before" Example
 
