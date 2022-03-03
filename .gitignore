@@ -3,3 +3,4 @@ prepros.config
 *.less
 *.md
 *.pug
+*.css
