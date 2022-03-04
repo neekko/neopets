@@ -4,3 +4,4 @@ prepros.config
 *.md
 *.pug
 *.css
+*.php
