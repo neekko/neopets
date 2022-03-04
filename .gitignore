@@ -5,3 +5,4 @@ prepros.config
 *.pug
 *.css
 *.php
+*.txt
