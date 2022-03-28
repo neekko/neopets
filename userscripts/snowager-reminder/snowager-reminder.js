@@ -5,8 +5,8 @@
 // @description Displays a reminder when the Snowager is sleeping.
 // @author Neekko
 // @homepageURL https://github.com/neekko/neopets/
-// @downloadURL https://github.com/neekko/neopets/blob/main/userscripts/snowager-reminder.js
-// @updateURL https://github.com/neekko/neopets/blob/main/userscripts/snowager-reminder.js
+// @downloadURL https://github.com/neekko/neopets/blob/main/userscripts/snowager-reminder/snowager-reminder.js
+// @updateURL https://github.com/neekko/neopets/blob/main/userscripts/snowager-reminder/snowager-reminder.js
 // ==/UserScript==
 
 const date = new Date();
