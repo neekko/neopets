@@ -8,7 +8,8 @@ Click the name of a folder to go to that code's instructions. If you need help, 
 
 [**modern-lookup-lite**](https://github.com/neekko/neopets/tree/main/modern-lookup-lite) - same as above, but it frees up character space by keeping the default header & footer
 
-[**show-pet**](https://github.com/neekko/neopets/tree/main/show-pet) - make your pet's portrait visible on their lookup
+~~[**show-pet**](https://github.com/neekko/neopets/tree/main/show-pet) - make your pet's portrait visible on their lookup~~
+*As of April 2022, TNT has fixed pet lookups to display the static image automatically, thus rendering this code obsolete!*
 
 [**userscripts**](https://github.com/neekko/neopets/tree/main/userscripts) - an assortment of browser plugins to enhance or improve your Neopets experience
 
