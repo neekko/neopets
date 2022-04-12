@@ -1,5 +1,5 @@
 **As of April 2022, TNT has fixed pet lookups to display the static image automatically, thus rendering this code obsolete!**
-
+~~
 ## How-To
 
 Go to [https://www.neopets.com/quickref.phtml](https://www.neopets.com/quickref.phtml). Click the arrow next to your pet's portrait and select **Edit description**. Copy and paste the following code into the description box:
@@ -24,4 +24,4 @@ Tadah! Now people will actually be able to see your pet when they visit their pr
 
 ## "After" Example
 
-![Pet display with the above code!](https://imgur.com/rtMHjo0.png)
+![Pet display with the above code!](https://imgur.com/rtMHjo0.png)~~
